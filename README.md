@@ -1,6 +1,6 @@
 [README-HRRPTableau.md](https://github.com/user-attachments/files/34867861/README-HRRPTableau.md)
 # Florida Hospital Readmissions, FY 2022–2026
-
+[![Florida Hospital Readmissions dashboard](Dashboard.png)](https://public.tableau.com/app/profile/chris.kraster/viz/FloridaHospitalReadmissionsFY20222026/FloridaReadmissionsDashboard)
 **Live dashboard:** [Tableau Public](https://public.tableau.com/views/FloridaHospitalReadmissionsFY20222026/FloridaReadmissionsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 How do Florida hospitals compare with the nation on 30-day readmissions, and do the same hospitals stay above expected year after year? This project profiles CMS Hospital Readmissions Reduction Program (HRRP) data for heart attack (AMI), heart failure (HF) and pneumonia (PN) across five fiscal years. It is Phase 1 of a larger study of whether weekend discharge is linked to readmission in Florida.
